@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Information Systems student passionate about backend development, data analysis, and game development — with a focus on high-performance and well-structured solutions.</p>
+<p align="left">Information Systems student passionate about backend development, data analysis, and game development with a focus on high-performance and well-structured solutions.</p>
 
 ###
 
